@@ -4,6 +4,9 @@
 Based on the readings of total cholesterol, LDL cholesterol,HDL cholesterol and triglycerides of a patient’s blood sample taken in mg/dL obtained from Cholesterol Test
 / Lipid Profile,the task at hand is to interpret these readings and check whether the patient has an ideal level of cholesterol or not .
 
+![image](https://github.com/AmruhaAhmed/Cholesterol-Level-Analyzer-GUI-using-Gradio-Python-Coding-Joy/assets/98407069/c0775d39-674e-4555-910e-a0f64dfb04e4)
+
+
 This task can be accomplished using one of Python's potent library, Gradio .
 
 Gradio is a library that is used for creating UI components with minimal lines of code.
